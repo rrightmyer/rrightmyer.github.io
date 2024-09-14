@@ -1,1 +1,1 @@
-GitHub Site
+GitHub Pages Site
