@@ -3,12 +3,43 @@ layout: home
 title: "About"
 ---
 
-<p class="display-6 mt-3 mt-sm-0 fw-bold">Data Analyst, Developer, IT Manager</p>
+<div class="row">
+    <div class="col-12 col-md-4 col-lg-3">
+        <img src="/assets/images/rob-rightmyer.jpg" width="200px" height="200px" class="rob-image rounded-circle mb-3" alt="Rob Rightmyer">
+    </div>
+    <div class="col-12 col-md-8 col-lg-9">
+        <p>Data Analyst (PIM) at <a href="https://www.newellbrands.com" class="text-secondary link-offset-1">Newell Brands</a>.</p>
 
-<p>Data Analyst (PIM) at <a href="https://www.newellbrands.com" class="text-secondary">Newell Brands</a>.</p>
+        <p>Previously: Developer/Data Engineer at <a href="https://www.newellbrands.com" class="text-secondary link-offset-1">Newell Brands</a>, Developer at <a href="https://www.jackhenry.com" class="text-secondary link-offset-1">Jack Henry</a>, Developer at <a href="https://www.hcahealthcare.com" class="text-secondary link-offset-1">HCA Healthcare</a>, IT Manager at <a href="https://www.juelsalon.com" class="text-secondary link-offset-1">Juel Salon</a> and <a href="https://www.trewaudio.com" class="text-secondary link-offset-1">Trew Audio</a>, Multimedia Developer at Digital Divestment and Duthie Associates.</p>
 
-<p>Previous Back End Developer/Data Engineer for <a href="https://www.newellbrands.com" class="text-secondary">Newell Brands</a>, Front End Developer for <a href="https://www.jackhenry.com" class="text-secondary">Jack Henry</a> and <a href="https://www.hcahealthcare.com" class="text-secondary">HCA Healthcare</a>, IT Manager for <a href="https://www.juelsalon.com" class="text-secondary">Juel Salon</a> and <a href="https://www.trewaudio.com" class="text-secondary">Trew Audio</a>, Multimedia Developer for Digital Divestment and Duthie Associates.</p>
+        <div>
+            <ul class="list-unstyled list-inline mb-3 social">
+                <li class="list-inline-item">
+                    <a class="d-inline-flex align-items-center text-secondary link-offset-1" href="https://linkedin.com/in/robrightmyer" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="me-1"> viewBox="0 0 16 16">
+                        <path d="M0 1.146C0 .513.526 0 1.175 0h13.65C15.474 0 16 .513 16 1.146v13.708c0 .633-.526 1.146-1.175 1.146H1.175C.526 16 0 15.487 0 14.854zm4.943 12.248V6.169H2.542v7.225zm-1.2-8.212c.837 0 1.358-.554 1.358-1.248-.015-.709-.52-1.248-1.342-1.248S2.4 3.226 2.4 3.934c0 .694.521 1.248 1.327 1.248zm4.908 8.212V9.359c0-.216.016-.432.08-.586.173-.431.568-.878 1.232-.878.869 0 1.216.662 1.216 1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016l.016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225z"/>
+                    </svg>
+                    LinkedIn
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a class="d-inline-flex align-items-center gap text-secondary link-offset-1" href="https://github.com/rrightmyer" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="me-1"> viewBox="0 0 16 16">
+                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8"/>
+                    </svg>
+                    GitHub
+                    </a>
+                </li>
+                <li class="list-inline-item">
+                    <a class="d-inline-flex align-items-center gap text-secondary link-offset-1" href="https://twitter.com/robrightmyer" rel="noreferrer">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" class="me-1">
+                    <path d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/>
+                    </svg>
+                    Twitter
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi rutrum consectetur sapien ac congue. Sed eu fermentum urna. Sed posuere ac purus nec porttitor. Nulla vitae odio varius, commodo mi ut, ultricies urna. Duis sodales euismod efficitur. Vivamus urna sapien, tempor eu magna eu, imperdiet ullamcorper lorem. Fusce ac dapibus sapien. Curabitur nec faucibus orci. Proin ut ante mollis, sagittis ligula non, ornare felis. Morbi ultrices efficitur sapien, in vulputate nisi bibendum eget. Fusce lorem erat, varius non massa sit amet, imperdiet tincidunt massa. Pellentesque imperdiet, libero in finibus tempor, enim odio cursus libero, eget consequat nunc magna in arcu.</p>
-
-<p>Sed justo orci, sodales sit amet tristique id, luctus eget massa. Phasellus suscipit magna vel gravida ornare. Phasellus id enim consequat, iaculis lorem vel, bibendum nulla. Etiam viverra nisi eget elementum varius. Duis est ligula, condimentum sed ante id, aliquet consequat elit. Curabitur in ligula mauris. Maecenas id tellus at massa accumsan rutrum. Mauris dapibus augue eu lacus consectetur vestibulum. Praesent at lorem rhoncus eros facilisis rutrum. Praesent sollicitudin eros ac ex imperdiet, nec venenatis ligula elementum. Integer eleifend lectus ut libero aliquet eleifend.</p>
+</div>
